@@ -29,6 +29,5 @@ This is a simple **Rock, Paper, Scissors** game built using **HTML**, **CSS**, a
 2. Open the game.html file in your browser.
 3. Choose Rock, Paper, or Scissors by clicking on the respective option.
 4. The game will display the result and let you know who won!
-Screenshot
 ![Screenshot (91)](https://github.com/user-attachments/assets/d60255b2-54dd-48cf-97f2-4a23b878169e)
 
